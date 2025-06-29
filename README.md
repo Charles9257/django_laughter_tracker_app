@@ -1,11 +1,11 @@
-#django_laughter_tracker_app
+# django_laughter_tracker_app
 This platform allows users to record short video clips of themselves laughing, which will be used for academic and commercial research into the psychology and behavioural impact of laughter. The core functionality has been developed using Python and PostgreSQL
 
  
-#🎉 Introduction
+# 🎉 Introduction
 Laughter Tracker is a full-stack web and mobile app that allows users to record and upload short video clips of themselves laughing. These clips are used for ongoing academic and commercial research into the psychological and behavioral impact of laughter. Your contributions will help improve the video experience, user interface, backend performance, and data handling — all while contributing to a meaningful research initiative.
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 Layer	Technology
 Frontend	HTML, CSS, Bootstrap, JavaScript
 Backend	Django (Python)
@@ -15,7 +15,7 @@ CI/CD    GitHub Actions
 Containerization   Docker and Kubernetes
 Hosting	(Local + Cloud: Render, AWS EC2)
 
-#🚀 Core Features
+# 🚀 Core Features
 🎥 Record & Upload: Capture short laughter videos using web/mobile camera.
 
 👤 User Authentication: Signup/login, secure session handling.
@@ -28,7 +28,7 @@ Hosting	(Local + Cloud: Render, AWS EC2)
 
 🧠 Insights Dashboard: (Optional) Admin panel for researchers to explore data.
 
-#🧑‍💻 Areas of Contribution
+# 🧑‍💻 Areas of Contribution
 Enhance video capture using JavaScript APIs.
 
 Improve UI/UX with Bootstrap layout and styling.
@@ -41,7 +41,7 @@ Optimize PostgreSQL queries for large-scale video metadata.
 
 Add video thumbnail previews, progress bars, and loading states.
 
-#🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 Build a real-world media-based full-stack app.
 
 Manage video and user data securely and ethically.
